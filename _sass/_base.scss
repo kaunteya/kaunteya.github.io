@@ -89,7 +89,12 @@ a {
     &:hover {
         color: darken($brand-color, 65%);
         text-decoration: none;
+        
     }
+}
+
+circle.home {
+  fill: $brand-color;
 }
 
 p.mac-store {
@@ -100,7 +105,7 @@ p.mac-store {
     border-radius: 12px;
     color: #ffffff;
     background: $brand-color;
-    padding: 3px 15px;
+    padding: 5px 15px;
     text-decoration: none;
 
     &:hover {
@@ -229,9 +234,6 @@ div.my-apps {
   }
 }
 
-/**
- * Wrapper
- */
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -250,10 +252,6 @@ div.my-apps {
 }
 
 
-
-/**
- * Clearfix
- */
 %clearfix {
 
     &:after {

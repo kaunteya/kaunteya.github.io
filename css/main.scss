@@ -14,7 +14,7 @@ $spacing-unit:     20px;
 
 $text-color:       #555;
 $background-color: #ffffff;
-$brand-color:      #0a6c3e;
+$brand-color:      #22BAD9;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -27,14 +27,6 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
