@@ -4,13 +4,26 @@ permalink: /apps/
 ---
 <div class="my-apps">
   <h1>Apps</h1>
-      <section style="text-align:right" >
+      <section style="text-align:left" >
         <img src="http://is1.mzstatic.com/image/thumb/Purple128/v4/73/e1/01/73e101ef-1168-18c1-fa0c-1b170891b031/source/100x100bb.png">
         <h2>Linex</h2>
         <p class="sub-title">Feature packed Xcode extension</p>
         <summary>Linex is a Xcode plugin that lets you do all the basic operations that are missing in Xcode. Its sad that a heavy tool like Xcode natively does not have these operations</summary>
         <p class="mac-store">
             <a href="https://itunes.apple.com/us/app/linex-for-xcode/id1290932760?ls=1&mt=12">
+              <span>{% include icons/app-store.svg %}</span>View in Mac App Store
+            </a>
+        </p>
+      </section>
+
+      <section style="text-align:right" >
+        <img src="http://is4.mzstatic.com/image/thumb/Purple118/v4/c4/26/6a/c4266ac0-4a0e-8acf-9c4e-c1c9ec1c1395/source/100x100bb.png">
+        <h2>FloatCoin</h2>
+        <p class="sub-title">Floating bitcoin rates</p>
+        <summary>Floatcoin is a bitcoin rate ticker which floats over all other windows.
+        So you have always visible bitcoin rates on the go.</summary>
+        <p class="mac-store">
+            <a href="https://itunes.apple.com/us/app/floatcoin-bitcoin-rates/id1273560191?ls=1&mt=12">
               <span>{% include icons/app-store.svg %}</span>View in Mac App Store
             </a>
         </p>
