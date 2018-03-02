@@ -13,8 +13,6 @@ permalink: /apps/
 Xcode plugin that lets you do all the basic operations that are missing in Xcode. 
 
 [![View on Mac AppStore]({{"/assets/macappstore.png"}})](https://itunes.apple.com/us/app/linex-for-xcode/id1290932760?ls=1&mt=12)
-
-[![Mac Informer]({{"/assets/macinformer.png"}})](http://macdownload.informer.com/linex/)
 <br><br><br> <br><br>
 
 ![FloatCoin](http://is4.mzstatic.com/image/thumb/Purple118/v4/c4/26/6a/c4266ac0-4a0e-8acf-9c4e-c1c9ec1c1395/source/100x100bb.png)
