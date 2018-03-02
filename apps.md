@@ -15,7 +15,7 @@ Xcode plugin that lets you do all the basic operations that are missing in Xcode
 [![View on Mac AppStore]({{"/assets/macappstore.png"}})](https://itunes.apple.com/us/app/linex-for-xcode/id1290932760?ls=1&mt=12)
 <br><br><br> <br><br>
 
-![FloatCoin](http://is4.mzstatic.com/image/thumb/Purple118/v4/c4/26/6a/c4266ac0-4a0e-8acf-9c4e-c1c9ec1c1395/source/100x100bb.png)
+![FloatCoin](http://is4.mzstatic.com/image/thumb/Purple118/v4/57/13/9e/57139e4d-ae82-5109-9bcf-c2a215bbc6ac/source/100x100bb.png)
 
 ## FloatCoin
 Floatcoin is a bitcoin rate ticker which floats over all other windows. So you have always visible bitcoin rates on the go.
