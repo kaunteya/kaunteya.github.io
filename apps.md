@@ -22,6 +22,7 @@ Xcode plugin that lets you do all the basic operations that are missing in Xcode
 ## Mac Cache Cleaner
 
 Native Mac application that lets you clear cache
+<br><br><br> <br><br>
 
 ![FloatCoin](http://is4.mzstatic.com/image/thumb/Purple118/v4/57/13/9e/57139e4d-ae82-5109-9bcf-c2a215bbc6ac/source/100x100bb.png)
 
