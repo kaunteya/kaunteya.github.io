@@ -17,7 +17,7 @@ Xcode plugin that lets you do all the basic operations that are missing in Xcode
 <br><br><br> <br><br>
 
 
-![MacCacheCleaner](https://github.com/kaunteya/MacCacheCleaner/blob/master/Images/AppIcon100x100.png)
+![MacCacheCleaner](https://raw.githubusercontent.com/kaunteya/MacCacheCleaner/master/Images/AppIcon100x100.png)
 
 ## Mac Cache Cleaner
 
