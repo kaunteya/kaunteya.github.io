@@ -16,13 +16,14 @@ Xcode plugin that lets you do all the basic operations that are missing in Xcode
 [![Mac Informer]({{"/assets/macinformer.png"}})](http://macdownload.informer.com/linex/)
 <br><br><br> <br><br>
 
-![FloatCoin](http://is4.mzstatic.com/image/thumb/Purple118/v4/57/13/9e/57139e4d-ae82-5109-9bcf-c2a215bbc6ac/source/100x100bb.png)
 
 ![MacCacheCleaner](https://github.com/kaunteya/MacCacheCleaner/blob/master/Images/AppIcon100x100.png)
 
 ## Mac Cache Cleaner
 
 Native Mac application that lets you clear cache
+
+![FloatCoin](http://is4.mzstatic.com/image/thumb/Purple118/v4/57/13/9e/57139e4d-ae82-5109-9bcf-c2a215bbc6ac/source/100x100bb.png)
 
 ## FloatCoin
 Floatcoin is a bitcoin rate ticker which floats over all other windows. So you have always visible bitcoin rates on the go.
