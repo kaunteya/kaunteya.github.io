@@ -22,7 +22,6 @@ Lexi would let you visualize JSON in a user-friendly way.
 Xcode plugin that lets you do all the basic operations that are missing in Xcode. 
 
 [![View on Mac AppStore]({{"/assets/macappstore.png"}})](https://itunes.apple.com/us/app/linex-for-xcode/id1290932760?ls=1&mt=12) 
-[![Mac Informer]({{"/assets/macinformer.png"}})](http://macdownload.informer.com/linex/)
 <br><br><br> <br><br>
 
 
