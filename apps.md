@@ -13,6 +13,7 @@ permalink: /apps/
 Lexi would let you visualize JSON in a user-friendly way.
 
 [![View on Mac AppStore]({{"/assets/macappstore.png"}})](https://apps.apple.com/tr/app/lexi-visual-json-browser/id1462580127?mt=12)
+<br><br><br> <br><br>
 
 ![Linex](http://is1.mzstatic.com/image/thumb/Purple128/v4/73/e1/01/73e101ef-1168-18c1-fa0c-1b170891b031/source/100x100bb.png)
 
