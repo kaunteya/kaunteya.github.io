@@ -5,6 +5,14 @@ permalink: /apps/
 
 # Apps
 
+[comment]: # (Fetching app details along with image http://itunes.apple.com/lookup?id=<app-id>)
+
+![Lexi](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/6d/7d/286d7da2-9811-9b53-c4eb-9f48200c8489/source/100x100bb.png)
+
+## Lexi
+Lexi would let you visualize JSON in a user-friendly way.
+
+[![View on Mac AppStore]({{"/assets/macappstore.png"}})](https://apps.apple.com/tr/app/lexi-visual-json-browser/id1462580127?mt=12)
 
 ![Linex](http://is1.mzstatic.com/image/thumb/Purple128/v4/73/e1/01/73e101ef-1168-18c1-fa0c-1b170891b031/source/100x100bb.png)
 
