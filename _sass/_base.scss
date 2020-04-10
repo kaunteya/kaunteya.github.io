@@ -14,7 +14,6 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -33,10 +32,11 @@ p, summary {
   margin-bottom: 8px;
 }
 
-h1, h2, h3, h4, h5, h6,
+h1, h2, h3, h4, h5, h6, p,
 blockquote, pre, ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: 2px;
+  color: $text-color;
+  margin-bottom: 2px;
 }
 
 /**
@@ -65,36 +65,19 @@ li {
          margin-bottom: 0;
     }
 }
-
-
-
-/**
- * Headings
- */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
-}
-h1 {
-  color: black
+  font-weight: $base-font-weight;
 }
 
-
-/**
- * Links
- */
 a {
     color: $brand-color;
     text-decoration: none;
 
     &:hover {
-        color: darken($brand-color, 65%);
+        color: darken($brand-color, 10%);
         text-decoration: none;
         
     }
-}
-
-circle.home {
-  fill: $brand-color;
 }
 
 /**
@@ -131,9 +114,9 @@ div.go-home {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #dedede;
+    border: none;
+    background-color: #3e4246;
+    ;
 }
 
 code {

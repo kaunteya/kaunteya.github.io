@@ -6,7 +6,7 @@ category: Swift
 
 There comes a time when you have to create an Array of objects which are  of different types. A generic solution to this problem is to create an `Array<AnyObject>`
 
-## Array\<AnyObject>
+### Array\<AnyObject>
 Array<AnyObject> can accommodate almost everything into it. But wait..
 
 Why do you need it?
@@ -15,7 +15,7 @@ Whenever there comes a need to create an array of anyobject, just consider redes
 
 But if the list is somewhat similar then you can use Protocol oriented Programming for this.
 
-## Protocol Oriented Solution
+### Protocol Oriented Solution
 Swift is focusing more on protocol oriented programming. So if you have to create an array of **similar** but not the same data types, then you can make all the similar types conform to a `Protocol` and create an array of the Protocol.
 
 Here is the example

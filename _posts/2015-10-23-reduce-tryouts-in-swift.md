@@ -6,7 +6,7 @@ category: Swift
 
 Swift has a set of awesome high order functions like `map`, `filter` and `reduce`. Although reduce is relatively complex, it has immense `flexibility` and `power`. Reduce has flexibility to such an extent that it can do all possible array operations.
 
-## Array methods re implemented using reduce
+### Array methods re implemented using reduce
 You can check out some of the array functionalities that I have re implemented using reduce
 
 #### array.count
@@ -36,7 +36,7 @@ let lastElement: String = chars.reduce(chars[0]) { (_, char) in
 // Returns "E"
 {% endhighlight %}
 
-## map using reduce
+### map using reduce
 If this wasnt impressive enough, check out how `map` can be implemented using reduce.
 
 {% highlight swift %}
@@ -52,7 +52,7 @@ let stringedNums = [1, 2, 3, 4].reduce([String]()) { (accum, num) in
 
 ---
 
-## filter using reduce
+### filter using reduce
 Similarly `filter` implementation is
 
 {% highlight swift %}
@@ -70,7 +70,7 @@ Similarly `filter` implementation is
 
 ---
 
-## Now what ?
+### Now what ?
 
 reduce can be used to implement native array methods. It can also be used as map and filter. But what was the point ?
 

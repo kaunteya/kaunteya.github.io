@@ -4,7 +4,7 @@ title: Creating NSView from XIB file
 category: Swift
 ---
 
-# Usage
+### Usage
 - Create a XIB file with a single view
 - Subclass NSView and make it conform to NibLoadable.
 Conformance makes the default implementation available to you.
@@ -37,7 +37,7 @@ extension NibLoadable where Self: NSView {
 {% endhighlight %}
 
 
-# Benefits
+### Benefits
 - Custom views can be quickly made in a XIB file.
 - Less chances of errors
 
