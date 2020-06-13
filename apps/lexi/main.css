@@ -1,0 +1,11 @@
+.hero-illustration {
+    margin-top: -80px;
+    padding-bottom: 0;
+    margin-left: 1em;
+}
+
+.hero-media img,.hero-media svg {
+    max-width: none;
+    /* width: 600; */
+    margin-left: -70px}
+
