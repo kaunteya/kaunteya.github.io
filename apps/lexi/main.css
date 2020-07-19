@@ -7,5 +7,15 @@
 .hero-media img,.hero-media svg {
     max-width: none;
     /* width: 600; */
-    margin-left: -70px}
+    margin-left: -70px
+}
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.feature-item {
+    font-size: large;
+    margin-bottom: 1rem;
+}
