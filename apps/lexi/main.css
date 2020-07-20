@@ -1,21 +1,16 @@
-.hero-illustration {
-    margin-top: -80px;
-    padding-bottom: 0;
-    margin-left: 1em;
-}
 
-.hero-media img,.hero-media svg {
-    max-width: none;
-    /* width: 600; */
-    margin-left: -70px
+.image-title-row {
+    margin-top: 7rem;
+    display: block;
 }
-
-body {
-    font-family: 'Montserrat', sans-serif;
-}
-
 
 .feature-item {
-    font-size: large;
-    margin-bottom: 1rem;
+    display: inline-block;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+section.app-store {
+    margin-top: 10rem;
+    margin-bottom: 10rem;
 }
