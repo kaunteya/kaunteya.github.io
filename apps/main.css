@@ -1,0 +1,46 @@
+.featurette-heading {
+    margin-top: 7rem;
+}
+.app-title {
+    background: linear-gradient(30deg, #3c7bad, #683d8a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent
+}
+
+p.lead {
+    color: #3a3a3a;
+}
+
+button.mac-appstore {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none;
+}
+
+h5.subtitle {
+    color: #3a3a3a;
+}
+
+.feature-row {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+.text-gradient.blue {
+    background: linear-gradient(30deg, #3c7bad, #683d8a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent
+}
+
+.text-gradient.bright-blue {
+    background: linear-gradient(30deg, #98d1ff, #d5a0ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent
+}
+
+.text-gradient.red {
+    background: linear-gradient(30deg, #bf2a2a, #8a3d3d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent
+}
+
